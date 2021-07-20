@@ -35,5 +35,13 @@ age	sex	cp	trtbps	chol	fbs	restecg	thalachh	exng	oldpeak	slp	caa	thall	output
 ```
 # Vizualization
 Vizualization of distribution of age in dataset
+
 ![image](https://user-images.githubusercontent.com/35808072/126371259-4f816417-54ac-4326-b0d8-f51b6d79ab87.png)
 
+Visualization of gender groups
+
+![image](https://user-images.githubusercontent.com/35808072/126372356-884e3280-9198-46d7-a2f9-e1fb4349d9b5.png)
+
+Visualization of distrubution of patients with different chest pain types
+
+![image](https://user-images.githubusercontent.com/35808072/126372292-49076805-63e9-4ef3-a2d5-674c7b9a76ea.png)
