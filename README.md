@@ -1,5 +1,5 @@
 # Heart attack dataset
-Heart attack analisis
+Heart attack analisis dataset 
 # Import
 ```python
 import pandas as pd
