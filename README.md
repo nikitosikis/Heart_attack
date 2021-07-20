@@ -35,6 +35,5 @@ age	sex	cp	trtbps	chol	fbs	restecg	thalachh	exng	oldpeak	slp	caa	thall	output
 ```
 # Vizualization
 Vizualization of distribution of age in dataset
-```
 ![image](https://user-images.githubusercontent.com/35808072/126371259-4f816417-54ac-4326-b0d8-f51b6d79ab87.png)
-```
+
