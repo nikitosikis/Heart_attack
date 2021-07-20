@@ -33,3 +33,8 @@ age	sex	cp	trtbps	chol	fbs	restecg	thalachh	exng	oldpeak	slp	caa	thall	output
 302	57	0	1	130	236	0	0	174	0	0.0	1	1	2	0
 303 rows × 14 columns
 ```
+# Vizualization
+Vizualization of distribution of age in dataset
+```
+![image](https://user-images.githubusercontent.com/35808072/126371259-4f816417-54ac-4326-b0d8-f51b6d79ab87.png)
+```
