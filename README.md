@@ -45,3 +45,23 @@ Visualization of gender groups
 Visualization of distrubution of patients with different chest pain types
 
 ![image](https://user-images.githubusercontent.com/35808072/126372292-49076805-63e9-4ef3-a2d5-674c7b9a76ea.png)
+
+# Data preprocesing
+We are using train_test_split on our data and making matrix to record predictions in it to comparison
+## prediction matrix
+```
+	bins_reg	bins_boost	bins_true
+index			
+0	0	0	0
+1	0	0	0
+2	0	0	1
+3	0	0	0
+4	0	0	1
+...	...	...	...
+95	0	0	1
+96	0	0	1
+97	0	0	1
+98	0	0	1
+99	0	0	0
+100 rows × 3 columns
+```
