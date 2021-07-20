@@ -1,6 +1,6 @@
 # Heart_attack
 Heart attack analisis
-#Import
+# Import
 ```python
 import pandas as pd
 import plotly.express as px 
