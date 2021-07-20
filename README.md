@@ -65,3 +65,9 @@ index
 99	0	0	0
 100 rows × 3 columns
 ```
+# Logistic regression submit
+We are using base Logistic regression from sklearn with max_iter=10000 parameter
+Accuracy of Logistic regression is 0.8
+# CatBoost submit
+We can use CatBoost to upgrade the answer
+Base CatBoost parameter preset gives an 0.82 accuracy
